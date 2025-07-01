@@ -6,6 +6,11 @@ Desenvolvedor Frontend apaixonado por criar soluções inovadoras e envolventes,
 
 A maioria dos meus projetos são de licensa privada, mas aqui estão alguns projetos de estudo que demonstram minhas habilidades e paixão por desenvolvimento:
 
+### 🎮 [Game Center](https://github.com/AlissonCiprian0/gamecenter?tab=readme-ov-file)
+(Github secundário)
+* **Descrição:** Protótipo de um ecommerce de games feito para fins de estudo.
+* **Tecnologias:** `React` `CSS`
+* **Status:** Concluído
 ---
 
 ### 🚀 [Pass.in](https://github.com/alissoncipriano/nlw-unite-2024)
