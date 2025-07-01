@@ -1,4 +1,4 @@
-# Olá! Eu sou o Alisson Cipriano 👋
+# Olá! Me chamo Alisson Cipriano 👋
 
 Desenvolvedor Frontend apaixonado por criar soluções inovadoras e envolventes, com foco em tecnologias modernas e eficientes do mercado. Atualmente, aplico essa paixão na **Assertiva Soluções**, onde desenvolvo aplicações frontend com forte ênfase em **React** e **Material UI** para uma empresa referência em inteligência de dados e automação.
 
